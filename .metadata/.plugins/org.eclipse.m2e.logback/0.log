@@ -1,0 +1,25 @@
+2023-06-09 18:33:45,217 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-09 18:34:16,208 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.javaguides:student-management-system:0.0.1-SNAPSHOT @ C:\Users\Ajailson\Desktop\student-management-system-springboot-main\pom.xml.
+2023-06-09 18:34:20,738 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-system/src/main/java
+2023-06-09 18:34:20,740 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-system/src/main/resources
+2023-06-09 18:34:20,764 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-system/src/main/resources
+2023-06-09 18:34:20,772 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-system/src/test/java
+2023-06-09 18:34:24,714 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2023-06-09 18:34:28,366 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 18:34:28,401 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-09 18:34:28,636 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ajailson\Desktop\student-management-system-springboot-main\src\test\resources
+2023-06-09 19:03:10,565 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-09 19:48:26,864 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-09 19:49:48,574 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-09 19:50:42,573 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 19:50:42,619 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-09 19:50:42,658 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ajailson\Desktop\student-management-system-springboot-main\src\test\resources
+2023-06-09 19:53:25,805 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-09 19:54:36,837 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.6+10
+2023-06-09 19:54:36,926 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-06-09 19:54:36,984 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4af44e42{/wse,null,AVAILABLE}
+2023-06-09 19:54:37,027 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1f3b8bfe{HTTP/1.1, (http/1.1)}{0.0.0.0:65334}
+2023-06-09 19:54:37,051 [main] INFO  org.eclipse.jetty.server.Server - Started Server@3746749{STARTING}[10.0.13,sto=0] @43908ms
+2023-06-09 20:04:39,112 [Framework stop - Equinox Container: 4b6baea7-dd3b-4592-b5f7-ff1d0d879ecf] INFO  org.eclipse.jetty.server.Server - Stopped Server@3746749{STOPPING}[10.0.13,sto=0]
+2023-06-09 20:04:39,116 [Framework stop - Equinox Container: 4b6baea7-dd3b-4592-b5f7-ff1d0d879ecf] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1f3b8bfe{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2023-06-09 20:04:39,144 [Framework stop - Equinox Container: 4b6baea7-dd3b-4592-b5f7-ff1d0d879ecf] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@4af44e42{/wse,null,STOPPED}
